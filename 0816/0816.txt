@@ -1,0 +1,11 @@
+< 0816 >
+1. 인클루드 - h
+2. 라이브러리 - lib
+=> Directories
+★3. 링커 - 라이브러리를 편하게 사용하기 위해서 - SDL2.lib;(cpp파일과 같다) SDL2main.lib;
+
+* SDL : Simple DirectMedia Layer
+- 기능이 많지 않고, 필요한만큼의 최소한의 (핵심적) 기능들만 있다.
+
+* winMain(	)
+- 

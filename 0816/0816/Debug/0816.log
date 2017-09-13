@@ -1,0 +1,35 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(0816.vcxproj, 0818.vcxproj, 0821.vcxproj, 0822.vcxproj, 0824.vcxproj, 0825.vcxproj, 0829.vcxproj, 0830.vcxproj, 0904.vcxproj, 0905.vcxproj, 0906.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  Track.cpp
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\track.cpp(62): warning C4244: '+=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  GameScene.cpp
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(64): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(75): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(76): warning C4244: '/=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(28): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(29): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(48): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(51): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(52): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(57): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(58): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(136): note: 'strcpy' 선언을 참조하십시오.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(63): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(439): note: 'strtok' 선언을 참조하십시오.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(103): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(114): warning C4474: 'sprintf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(114): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(114): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\gamescene.cpp(197): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+e:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\0816\track.cpp(180): warning C4715: 'Track::KeyDown': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  0816.vcxproj -> E:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\Debug\0907.exe
+  0816.vcxproj -> E:\아텐츠 게임 아카데미\3. 리듬 게임 ( 08.03 ~ )\0907\0816\Debug\0907.pdb (Partial PDB)
